@@ -12,3 +12,5 @@
 
 注意：
 type_classification参数  在extract_patches.py 14行   and config,py 26行
+当classification为True的时候   Assertion: Not support
+当classification为False的时候   (540, 540, 4)
