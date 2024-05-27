@@ -10,3 +10,5 @@
 ![image](https://github.com/fxy-eng/hover-net/assets/148057565/33d21636-b8e7-4293-8dad-38307a36cd39)
 
 
+注意：
+type_classification参数  在extract_patches.py 14行   and config,py 26行
